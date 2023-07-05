@@ -1,6 +1,8 @@
 # Hotel Booking Demand Machine Learning Project
 by Omega team: Abdurrahman Saleh Adijaya, Dzul Fadli Rahman, & Vonny Yudianto
 
+Dataset source : [Kaggle](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand?datasetId=511638&sortBy=voteCount)
+
 ## Problem Statement
 Cancellations have negative impacts on hotels, such as reduced revenue and inefficiencies in resource allocation. To mitigate these effects, it is necessary to identify variables that strongly correlate with cancellations. By doing so, we can enable the hotel to predict cancellations and, thus, produce more accurate forecasts.
 
